@@ -9,3 +9,32 @@
 .websiteLink {
     text-decoration: none;
 }
+
+.bold {
+    font-weight: 600;
+}
+
+h3, h4 {
+    color: rgb(79, 50, 3);
+}
+
+.featuresStyling {
+    background-color: rgb(123,187,90);
+    color: black;
+}
+
+.feature-icon-small{
+    background-color: #0D6EFD;
+    color: white;
+}
+
+.friendsImage {
+    width: 70%;
+    border-radius: 10%;
+    margin-left: 10%;
+    margin-right: auto;
+    margin-bottom: 3%;
+    display: block;
+    text-align: center;
+    border: 7px solid #CE9C5C;
+}

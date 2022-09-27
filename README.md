@@ -1,7 +1,7 @@
 # Squawk Space
 Squawk Space is a full stack web application for students, teachers, and speech therapists. Students can practice their communication skills by creating posts, asking open-ended questions, and making supportive comments on a variety of interests/hobbies in a welcoming and inclusive environment. Once users create an account, they have the ability to make posts, comments, like another user's post, and delete their comments.
 
-**Link to project:** Coming Soon
+**Link to project:** https://squawk-space.onrender.com/
 
 ## How It's Made
 
@@ -37,3 +37,12 @@ I would continue to refactor the existing code to improve the overall functional
 
 ## Lessons Learned
 I learned how to implement Bootstrap components into the application for improved styling and utilized the DRY (don't repeat yourself) principle in the partials section in order to share styling across multiple pages.
+
+## Credits
+Parrot Logo by <a href="freelogodesign.org">freelogodesign.org</a>
+
+Photo of Four Friends by <a href="https://unsplash.com/@wildlittlethingsphoto?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Helena Lopes</a> on <a href="https://unsplash.com/s/photos/friends?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
+## Other Projects
+
+**Coming Soon**
