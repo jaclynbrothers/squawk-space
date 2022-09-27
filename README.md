@@ -39,9 +39,9 @@ I would continue to refactor the existing code to improve the overall functional
 I learned how to implement Bootstrap components into the application for improved styling and utilized the DRY (don't repeat yourself) principle in the partials section in order to share styling across multiple pages.
 
 ## Credits
-Parrot Logo by <a href="freelogodesign.org">freelogodesign.org</a>
+Parrot Logo by freelogodesign.org
 
-Photo of Four Friends by <a href="https://unsplash.com/@wildlittlethingsphoto?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Helena Lopes</a> on <a href="https://unsplash.com/s/photos/friends?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+Photo of Four Friends by <a href="https://unsplash.com/@wildlittlethingsphoto?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Helena Lopes</a> on Unsplash.com
 
 ## Other Projects
 
