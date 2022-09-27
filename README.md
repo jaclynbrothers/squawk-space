@@ -3,7 +3,7 @@ Squawk Space is a full stack web application for students, teachers, and speech 
 
 **Link to project:** https://squawk-space.onrender.com/
 
-https://user-images.githubusercontent.com/102431119/192607974-78624a29-8b20-4465-ba73-cdb9bd732d0c.mp4
+https://user-images.githubusercontent.com/102431119/192626951-b9965780-b008-4563-893d-89242066e0ca.mp4
 
 ## How It's Made
 
