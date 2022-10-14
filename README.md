@@ -1,7 +1,7 @@
 # Squawk Space
 Squawk Space is a full stack web application for students, teachers, and speech therapists. Students can practice their communication skills by creating posts, asking open-ended questions, and making supportive comments on a variety of interests/hobbies in a welcoming and inclusive environment. Once users create an account, they have the ability to make posts, comments, like another user's post, and delete their comments.
 
-**Link to project:** https://squawk-space.onrender.com/
+**Link to project:** https://squawkspace.up.railway.app/
 
 https://user-images.githubusercontent.com/102431119/192626951-b9965780-b008-4563-893d-89242066e0ca.mp4
 
