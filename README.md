@@ -7,7 +7,7 @@ https://user-images.githubusercontent.com/102431119/192626951-b9965780-b008-4563
 
 ## How It's Made
 
-**Tech used:** Embedded JavaScript (EJS), CSS, Bootstrap, Node, Express, MongoDB, Cloudinary, and deployed with Render.
+**Tech used:** Embedded JavaScript (EJS), CSS, Bootstrap, Node, Express, MongoDB, Cloudinary, and deployed with Railway.
 
 # Required Dependencies
 
