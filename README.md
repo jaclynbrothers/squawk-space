@@ -38,7 +38,7 @@ I utilized server-side JavaScript to connect the Model-View-Controller architect
 I would continue to refactor the existing code to improve the overall functionality of the application and add Google authentication as well. 
 
 ## Lessons Learned
-I learned how to implement Bootstrap components into the application for improved styling and utilized the DRY (don't repeat yourself) principle in the partials section in order to share styling across multiple pages.
+I learned how to implement Bootstrap components into the application for improved styling and utilized the DRY (don't repeat yourself) principle in the partials section in order to share styling across multiple pages. In addition, I tested deployment of this application on Render, Cyclic, and Railway. Railway was determined to have the fastest performance. 
 
 ## Credits
 Parrot Logo by freelogodesign.org
